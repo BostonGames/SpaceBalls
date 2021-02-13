@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{4BD83ACC-5BA9-46AA-A9C5-9B1244DFCB72}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EmptyTextFile.txt">
+    <Files>
+      <File FileName="Assets/Course Library/Scripts/Enemy.cs" Line="39" Column="47" />
+      <File FileName="Assets/Course Library/Scripts/PlayerController.cs" />
+      <File FileName="Assets/Course Library/Scripts/Powerup0.cs" />
+      <File FileName="Assets/Course Library/Scripts/Powerup1.cs" />
+      <File FileName="Assets/Course Library/Scripts/PointToMotionDirection.cs" />
+      <File FileName="Assets/Course Library/Scripts/SimpleRotate.cs" />
+      <File FileName="EmptyTextFile.txt" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Prototype 4 - Knock Balls" expanded="True">
+            <Node name=".gitignore" expanded="True">
+              <Node name="/Users/allyn/Desktop/Unity_Repo_MAc/Prototype 4 - Knock Balls/EmptyTextFile.txt" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Prototype 4 - Knock Balls" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9721acd3-9c2b-4260-af68-d244ffd40e62" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
